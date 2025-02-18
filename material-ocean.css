@@ -39,6 +39,8 @@ body {
   background: var(--bg-color);
   fill: currentColor;
   line-height: 1.625rem;
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 #write {
